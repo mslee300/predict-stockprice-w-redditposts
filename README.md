@@ -4,7 +4,8 @@
   <img width="900" alt="image" src="https://github.com/mslee300/predict-stockprice-w-redditposts/assets/55467050/31974501-8525-4187-868c-578ab14a2da7"> 
 </div>
 <br>
-You can find the entire slides 📖 [here](https://docs.google.com/presentation/d/1zZ8a8c8tDJc8xSYfyXmsQ6Mczjvo8W9gQa6ok23pTh8/edit?usp=sharing)
+You can find the entire slides 📖 [View Presentation](https://docs.google.com/presentation/d/1zZ8a8c8tDJc8xSYfyXmsQ6Mczjvo8W9gQa6ok23pTh8/edit?usp=sharing)
+usp=sharing)
 
 ## Inspiration 💡
 During the GameStop Short Squeeze, some big hedge funds were betting against GameStop stock, thinking they could outsmart the small investors. But then, a bunch of them on a subreddit called WallStreetBets got together. They pushed the stock price way up, causing big losses for the hedge funds.
